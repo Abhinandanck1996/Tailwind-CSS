@@ -1,0 +1,169 @@
+/* Marquee */
+
+/* Caurosel section */
+@media screen and (min-width:400px) and (max-width:900px){
+    div.carousel{
+        display: block;
+        
+  
+    }
+}
+/* Logo Section */
+@media screen and (min-width:400px) and (max-width:900px){
+    div.Logo-div{
+        display:none;
+        font-size: 10px;
+  
+    }
+    div.Logo-div h1{
+        font-size: 15px;
+    }
+    div.Logo-div img{
+        height: 40px;
+        width: 40px;
+        margin-left: 20px;
+    }
+}
+/* About Section */
+@media screen and (min-width:400px) and (max-width:900px){
+    div.About-div{
+        display:block;
+        font-size: 10px;
+  
+    }
+  
+    div.About{
+        width:100%;
+        
+    }
+    div.About h1{
+        font-size: 15px;
+        
+    }
+       
+}
+@media screen and (min-width:400px) and (max-width:900px){
+    div.Staff-div{
+        display:block;
+        font-size: 10px;
+      
+        
+  
+    }
+    
+    div.Staff{
+        width:100%;
+       
+        
+    }
+
+    article.Staff-art h3{
+        font-size: 20px;
+
+        
+    }
+    div.Staff img{
+        margin-top: 10px;
+      
+    }
+    div.Staff {
+       
+        margin-left: 25px;
+        
+    }
+    div.Staff h1
+{
+    font-size: 15px;
+}}
+
+@media screen and (min-width:400px) and (max-width:900px){
+    .About-art .heading{
+       display: block;
+        font-size:20px;
+        margin-right: 60px;
+  
+    }
+}
+
+
+/* Course sec */
+@media screen and (min-width:400px) and (max-width:900px){
+    div.Dtails-div{
+     
+  display: block;
+  
+ 
+  
+    }
+    .Dtails-art{
+        height: 55vh;
+    }
+button{
+    margin-top: 20px;
+}
+  
+}
+/* card caurosel sec */
+@media screen and (min-width:400px) and (max-width:900px){
+    div.carousel-div{
+     
+display: flex;
+justify-content: space-around;
+align-items: center;
+width: 80%;
+height: 60vh;
+margin: 0px auto;
+
+ 
+  
+    }
+}
+
+@media screen and (min-width:400px) and (max-width:900px){
+   div.place-div{
+       display: none;
+   }
+   article.place-art h1{
+    display: none;
+}
+}
+
+@media screen and (min-width:400px) and (max-width:900px){
+    div.Login button{
+        display: block;
+        
+  
+    }
+}
+
+/* requiter section */
+@media screen and (min-width:400px) and (max-width:900px){
+    div.reqiter-div{
+        display: block;
+    }
+    div.reqiter-div img{
+        width:50px;
+    }
+}
+
+/* faulty section */
+@media screen and (min-width:400px) and (max-width:900px){
+    div.faculty-div{
+        display: block;
+       
+    }
+    div.faculty{
+        margin-top: 20px;
+    }
+}
+
+@media screen and (min-width:400px) and (max-width:900px){
+    div.contact-div{
+        display: block;
+
+    }
+    div.google-maps{
+        display: flex;
+        justify-content: center;
+    }
+}
